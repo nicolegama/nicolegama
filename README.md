@@ -79,3 +79,7 @@ Estou em constante evolução, aprendendo, construindo e buscando criar tecnolog
 
 <br/>
 <br/>
+
+### 💻 Linguagens mais utilizadas
+![Linguagens mais utilizadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolegama&layout=compact&hide_title=true&theme=radical)
+
